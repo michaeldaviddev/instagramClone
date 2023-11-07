@@ -1,0 +1,28 @@
+.header {
+  margin-right: 8px;
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+
+  ion-avatar {
+    height: 36px;
+    width: 36px;
+  }
+}
+.media img {
+  width: 100%;
+}
+.feedback-controls {
+  display: flex;
+
+  ion-icon {
+    height: 24px;
+    width: 24px;
+    // margin-right: 16px;
+    padding: 8px;
+  }
+
+  .bookmark {
+    margin-left: auto;
+  }
+}
